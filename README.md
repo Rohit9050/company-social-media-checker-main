@@ -24,7 +24,7 @@ Before running the application, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Rohit9050/company-social-media-checker.git
+git clone https://github.com/Rohit9050/company-social-media-checker-main.git
 cd  company-social-media-checker
 ```
 
