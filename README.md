@@ -49,7 +49,7 @@ Here are a few sample CURL commands for testing the API:
 ### Find Social Media Pages for a Company
 ```bash
 curl -X 'GET' \
- 'http://localhost:8080/findSocialMediaPages?companyName=Microsoft' \
+ 'http://localhost:8081/findSocialMediaPages?companyName=Microsoft' \
  -H 'accept: */*'
 ```
 
